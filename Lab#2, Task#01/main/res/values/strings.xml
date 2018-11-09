@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SignLogInfoUI</string>
+    <string name="tv1">Name: Zainab Khan</string>
+    <string name="tv2">Email: zainabyounus63@gmail.com</string>
+    <string name="tv3">Dept: Software Department</string>
+    <string name="tv4">University: MUET</string>
+</resources>
