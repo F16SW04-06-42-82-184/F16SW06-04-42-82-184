@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AppLauncher</string>
+    <string name="tv1"></string>
+    <string name="btn1">call</string>
+    <string name="btn2">camera</string>
+    <string name="btn3">contact</string>
+    <string name="btn4">browser</string>
+    <string name="btn5">call log</string>
+    <string name="btn6">gallery</string>
+    <string name="btn7">dialpad</string>
+    <string name="hint">Enter Phone no./Website/Location</string>
+</resources>

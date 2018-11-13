@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SignUpandLoginApp</string>
+    <string name="tv1">Username</string>
+    <string name="tv2">Email</string>
+    <string name="tv3">Password</string>
+    <string name="tv4">Gender</string>
+    <string name="ed1"></string>
+    <string name="password"></string>
+    <string name="email"></string>
+    <string name="rb1">Male</string>
+    <string name="rb2">Female</string>
+    <string name="bt1">Sign Up</string>
+
+    <string name="ed2"></string>
+    <string name="pass2"></string>
+    <string name="tv7">Username:</string>
+    <string name="tv8">Password:</string>
+    <string name="btn2">Login</string>
+
+    <string name="tv5"></string>
+    <string name="tv6"></string>
+    <string name="tv9"></string>
+    <string name="btn3">Done</string>
+</resources>
