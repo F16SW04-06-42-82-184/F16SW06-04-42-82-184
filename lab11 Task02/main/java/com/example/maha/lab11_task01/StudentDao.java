@@ -14,6 +14,9 @@ public interface StudentDao {
     @Query("SELECT * FROM student")
     List<Student> getAll();
 
+    @Query("SELECT * FROM student where rollno = rollno") // fix this
+    Student getStudent(String roll);
+
     @Insert
     void insert(Student student);
 
