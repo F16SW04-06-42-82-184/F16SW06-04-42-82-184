@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/maha/Fragments/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/maha/Fragments/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/maha/Fragments/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/maha/Fragments/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/7af46306915cb28fbdc0c93421ddf341/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/maha/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/944e8eed16122153afe71f35451ce4d9/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/3a896fb27c601b48c8e9db98892b2174/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/4e779bd38732748fb7807267fa8ac69b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/ad77d3335092a9ec63779502e8adeb87/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/2387179b09b32b90de09d0258d708f14/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/d46d1069fce52ad8c9e12067bb01057e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/d599c97dad5b47407207f5b9fda3341c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/f3f3f8c70fd6290c50f7f71c39f22839/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/3b543cd1576007af992731d34b1f7e6a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/7cb5fa76af9f26dbfd488b4ee083e9e4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/64aeae8389612cf3fd2490d86e086f90/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/7eac28ff3055155ddc90f7d07c362dad/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/905a45cd41cd99d104aa325be5913681/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/fdfb86f225b64479ec3bf09915c07065/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8b1c90ae7f292d12b74877efaf47c67e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/9975340a95b3096148ecd8bf0e4d1282/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/1377e525f22b9a12794afb5006f5eef7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/maha/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f8d0f71796b59a5ee5274e53a8960a87/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/0010e944232c3273709cd776a81ed703/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/5e5f23f806a1030e41cc0d77bbb8430b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/dd84d3fc819cc607446b5f31789bd795/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/maha/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/f9909a910585d0350d20b73d28e424e2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/maha/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/f5eebc2ad0a3ef0e970a73029b0d07ae/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/maha/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/57f83622c2c576db7a8b83e439719483/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/maha/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/14abc58d01da033ba63acaa648bdad72/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/16c7a1c775e7b04150da62f2fad7f2b5/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/maha/Fragments/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/maha/Fragments/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/maha/Fragments/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/maha/Fragments/app/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /home/maha/Fragments/app/src/main/AndroidManifest.xml
+		INJECTED from /home/maha/Fragments/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/maha/Fragments/app/src/main/AndroidManifest.xml
+		ADDED from /home/maha/Fragments/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/maha/Fragments/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/maha/Fragments/app/src/main/AndroidManifest.xml
+		ADDED from /home/maha/Fragments/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/maha/Fragments/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/maha/Fragments/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/maha/Fragments/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/maha/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/944e8eed16122153afe71f35451ce4d9/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/maha/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/944e8eed16122153afe71f35451ce4d9/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8b1c90ae7f292d12b74877efaf47c67e/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8b1c90ae7f292d12b74877efaf47c67e/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/9975340a95b3096148ecd8bf0e4d1282/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/9975340a95b3096148ecd8bf0e4d1282/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8b1c90ae7f292d12b74877efaf47c67e/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/maha/Fragments/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/maha/Fragments/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/maha/Fragments/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/maha/Fragments/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/maha/Fragments/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/maha/Fragments/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.fragments.MainActivity
+ADDED from /home/maha/Fragments/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/maha/Fragments/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/maha/Fragments/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/maha/Fragments/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/maha/Fragments/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/maha/Fragments/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/maha/Fragments/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/maha/Fragments/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/maha/Fragments/app/src/main/AndroidManifest.xml
+INJECTED from /home/maha/Fragments/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/7af46306915cb28fbdc0c93421ddf341/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/7af46306915cb28fbdc0c93421ddf341/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/maha/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/944e8eed16122153afe71f35451ce4d9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/maha/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/944e8eed16122153afe71f35451ce4d9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/3a896fb27c601b48c8e9db98892b2174/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/3a896fb27c601b48c8e9db98892b2174/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/4e779bd38732748fb7807267fa8ac69b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/4e779bd38732748fb7807267fa8ac69b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/ad77d3335092a9ec63779502e8adeb87/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/ad77d3335092a9ec63779502e8adeb87/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/2387179b09b32b90de09d0258d708f14/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/2387179b09b32b90de09d0258d708f14/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/d46d1069fce52ad8c9e12067bb01057e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/d46d1069fce52ad8c9e12067bb01057e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/d599c97dad5b47407207f5b9fda3341c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/d599c97dad5b47407207f5b9fda3341c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/f3f3f8c70fd6290c50f7f71c39f22839/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/f3f3f8c70fd6290c50f7f71c39f22839/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/3b543cd1576007af992731d34b1f7e6a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/3b543cd1576007af992731d34b1f7e6a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/7cb5fa76af9f26dbfd488b4ee083e9e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/7cb5fa76af9f26dbfd488b4ee083e9e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/64aeae8389612cf3fd2490d86e086f90/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/64aeae8389612cf3fd2490d86e086f90/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/7eac28ff3055155ddc90f7d07c362dad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/7eac28ff3055155ddc90f7d07c362dad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/905a45cd41cd99d104aa325be5913681/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/905a45cd41cd99d104aa325be5913681/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/fdfb86f225b64479ec3bf09915c07065/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/fdfb86f225b64479ec3bf09915c07065/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8b1c90ae7f292d12b74877efaf47c67e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8b1c90ae7f292d12b74877efaf47c67e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/9975340a95b3096148ecd8bf0e4d1282/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/9975340a95b3096148ecd8bf0e4d1282/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/1377e525f22b9a12794afb5006f5eef7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/1377e525f22b9a12794afb5006f5eef7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/maha/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f8d0f71796b59a5ee5274e53a8960a87/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/maha/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f8d0f71796b59a5ee5274e53a8960a87/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/0010e944232c3273709cd776a81ed703/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/0010e944232c3273709cd776a81ed703/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/5e5f23f806a1030e41cc0d77bbb8430b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/5e5f23f806a1030e41cc0d77bbb8430b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/dd84d3fc819cc607446b5f31789bd795/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/dd84d3fc819cc607446b5f31789bd795/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/maha/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/f9909a910585d0350d20b73d28e424e2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/maha/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/f9909a910585d0350d20b73d28e424e2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/maha/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/f5eebc2ad0a3ef0e970a73029b0d07ae/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/maha/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/f5eebc2ad0a3ef0e970a73029b0d07ae/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/maha/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/57f83622c2c576db7a8b83e439719483/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/maha/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/57f83622c2c576db7a8b83e439719483/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/maha/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/14abc58d01da033ba63acaa648bdad72/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/maha/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/14abc58d01da033ba63acaa648bdad72/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/16c7a1c775e7b04150da62f2fad7f2b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/maha/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/16c7a1c775e7b04150da62f2fad7f2b5/AndroidManifest.xml:20:5-44
+INJECTED from /home/maha/Fragments/app/src/main/AndroidManifest.xml
+INJECTED from /home/maha/Fragments/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/maha/Fragments/app/src/main/AndroidManifest.xml
+		ADDED from /home/maha/Fragments/app/src/main/AndroidManifest.xml
+		INJECTED from /home/maha/Fragments/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/maha/Fragments/app/src/main/AndroidManifest.xml
+		ADDED from /home/maha/Fragments/app/src/main/AndroidManifest.xml
+		INJECTED from /home/maha/Fragments/app/src/main/AndroidManifest.xml
